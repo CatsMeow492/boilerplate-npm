@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "boilerplate-npm",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

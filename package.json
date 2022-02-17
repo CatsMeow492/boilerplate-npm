@@ -1,8 +1,10 @@
 {
-	"author": "Taylor Mohney",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Taylor Mohney",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"firebase": "^9.6.6",
+		"firebase-tools": "^10.2.0"
 	},
 	"main": "server.js",
 	"scripts": {
